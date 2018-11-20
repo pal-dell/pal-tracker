@@ -46,6 +46,7 @@ public class TimeEntry {
         this.projectId = projectId;
     }
 
+    //Commiting again
     public long getUserId() {
         return userId;
     }
