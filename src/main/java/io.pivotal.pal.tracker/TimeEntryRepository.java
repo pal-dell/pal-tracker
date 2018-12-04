@@ -11,4 +11,5 @@ public interface TimeEntryRepository extends Repository {
     public List<TimeEntry> list();
     public TimeEntry update(Long timeEntryId,TimeEntry timeEntry);
     public TimeEntry delete(Long timeEntryId);
+
 }

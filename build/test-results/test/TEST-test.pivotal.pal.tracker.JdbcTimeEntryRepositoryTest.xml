@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.pivotal.pal.tracker.JdbcTimeEntryRepositoryTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-12-04T08:51:54" hostname="pal8-OptiPlex-7050" time="0.9">
+  <properties/>
+  <testcase name="updateReturnsTheUpdatedRecord" classname="test.pivotal.pal.tracker.JdbcTimeEntryRepositoryTest" time="0.149"/>
+  <testcase name="createReturnsTheCreatedTimeEntry" classname="test.pivotal.pal.tracker.JdbcTimeEntryRepositoryTest" time="0.14"/>
+  <testcase name="findReturnsNullWhenNotFound" classname="test.pivotal.pal.tracker.JdbcTimeEntryRepositoryTest" time="0.056"/>
+  <testcase name="createInsertsATimeEntryRecord" classname="test.pivotal.pal.tracker.JdbcTimeEntryRepositoryTest" time="0.073"/>
+  <testcase name="deleteRemovesTheRecord" classname="test.pivotal.pal.tracker.JdbcTimeEntryRepositoryTest" time="0.154"/>
+  <testcase name="updateUpdatesTheRecord" classname="test.pivotal.pal.tracker.JdbcTimeEntryRepositoryTest" time="0.121"/>
+  <testcase name="findFindsATimeEntry" classname="test.pivotal.pal.tracker.JdbcTimeEntryRepositoryTest" time="0.11"/>
+  <testcase name="listFindsAllTimeEntries" classname="test.pivotal.pal.tracker.JdbcTimeEntryRepositoryTest" time="0.097"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
