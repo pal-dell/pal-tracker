@@ -4,4 +4,6 @@ applications:
   routes:
   - route: pcf-apps.cfapps.io
   env:
-    WELCOME_MESSAGE: Hello from the review environment
+    WELCOME_MESSAGE: Hello from the production environment
+  services:
+    - tracker-database
